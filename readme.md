@@ -61,8 +61,6 @@ This projects aims to create hero and card designs with landing page. It aims to
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
